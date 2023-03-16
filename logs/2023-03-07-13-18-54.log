@@ -1,0 +1,5 @@
+13:18:54 [Skill] INFO  Skill:137 - Connecting to Furhat server on 172.30.147.251:1932
+13:18:56 [FootballagentSkill] INFO  FootballagentSkill:164 - Starting skill
+13:19:10 [FootballagentSkill] WARN  Flow: 94 - Flow unknown unresponsive, 1422 ms since last event poll
+13:19:16 [FootballagentSkill] WARN  Flow: 94 - Flow unknown unresponsive, 1437 ms since last event poll
+13:19:18 [EventSystem] INFO  FootballagentSkill:182 - Terminating skill
